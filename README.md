@@ -23,9 +23,10 @@ The repository is organized as follows:
 ## How to Use
 
 1. Clone the repository
-2. Run scrapers individually per university
-3. Use merge scripts to combine the data
-4. Use Notebooks to validate, enrich and analyze
+2. Install dependencies (see `requirements.txt`)
+3. Run scrapers individually per university
+4. Use merge scripts to combine the data
+5. Use Notebooks to validate, enrich and analyze
 
 ## Notes
 
