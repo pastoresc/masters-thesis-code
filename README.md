@@ -9,16 +9,16 @@ This repository contains the code developed for the master's thesis project titl
 The repository is organized as follows:
 
 - `/scrapers/`  
-  Contains web and PDF scrapers used to extract program and course data from different university sources.
+  Contains scrapers used to extract program and course data from different university sources.
 
 - `/merge/`  
   Contains scripts for merging website and course data into a harmonized and unified dataset.
 
 - `/tuition/`  
-  Includes normalization scripts for tuition fees (e.g. conversion to EUR per semester).
+  Includes normalization scripts for tuition fees.
 
 - `/notebooks/`  
-  Jupyter Notebooks used for keyword mapping, course enrichment and validation logic (e.g. fuzzy matching).
+  Jupyter Notebooks used for data cleaning, geolocations and keyword mapping, course enrichment and validation logic.
 
 ## How to Use
 
