@@ -18,7 +18,7 @@ The repository is organized as follows:
   Includes normalization scripts for tuition fees.
 
 - `/notebooks/`  
-  Jupyter Notebooks used for keyword mapping, course enrichment and validation.
+  Jupyter Notebooks used for data cleaning, geolocations and keyword mapping, course enrichment and validation logic.  
 
 - `/data/`  
   Contains datasets, including the cleaned tuition file and the unified program dataset.
