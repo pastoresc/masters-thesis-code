@@ -18,17 +18,20 @@ The repository is organized as follows:
   Includes normalization scripts for tuition fees.
 
 - `/notebooks/`  
-  Jupyter Notebooks used for data cleaning, geolocations and keyword mapping, course enrichment and validation logic.
+  Jupyter Notebooks used for keyword mapping, course enrichment and validation.
+
+- `/data/`  
+  Contains datasets, including the cleaned tuition file and the unified program dataset.
 
 ## How to Use
 
-1. Clone the repository
-2. Install dependencies (see `requirements.txt`)
-3. Run scrapers individually per university
-4. Use merge scripts to combine the data
-5. Use Notebooks to validate, enrich and analyze
+1. Clone the repository  
+2. Install dependencies (see `requirements.txt`)  
+3. Run scrapers individually per university  
+4. Use merge scripts to combine the data  
+5. Use notebooks to validate, enrich and analyze
 
 ## Notes
 
-- This repository was created for academic purposes.
+- This repository was created for academic purposes.  
 - For questions, please contact the author via GitHub or through the university.
